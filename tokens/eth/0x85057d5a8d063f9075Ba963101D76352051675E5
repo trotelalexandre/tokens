@@ -1,0 +1,35 @@
+
+{
+  "symbol": "TROTEL",
+  "address": "0x85057d5a8d063f9075Ba963101D76352051675E5",
+  "decimals": 18,
+  "name": "TrotelCoin",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://trotelcoin.com",
+  "logo": {
+    "src": "https://app.trotelcoin.com/assets/logo/trotelcoin.svg",
+    "width": "2000",
+    "height": "2000",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "trotelcoin@gmail.com",
+    "url": "https://trotelcoin.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/TrotelCoin",
+    "gitter": "",
+    "instagram": "https://instagram.com/trotelcoin",
+    "linkedin": "https://www.linkedin.com/company/trotelcoin",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Trotelcoin",
+    "twitter": "https://twitter.com/trotelcoin",
+    "youtube": "https://www.youtube.com/@TrotelCoin"
+  }
+}
